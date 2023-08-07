@@ -11,9 +11,10 @@ html {
 
 }
 
-.footer-logos {
-    height: 50px;
-    width: 100px;
+.dis-modal-mid {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .row {
@@ -24,3 +25,4 @@ html {
     flex: 33.33%;
     padding: 5px;
   }
+
